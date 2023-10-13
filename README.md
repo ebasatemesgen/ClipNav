@@ -2,7 +2,7 @@
 
 We can capture images using a Turtlebot in the Gazebo simulation environment while rotating it across a circle. (I will be working on the real robot soon).
 
-<img src="move.gif" width="900" height="380" />
+<img src="move.gif" />
 
 
 
