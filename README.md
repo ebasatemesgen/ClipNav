@@ -1,6 +1,7 @@
 # Turtlebot Image Capture and Orientation Adjuster
 
-This project allows a user to capture images using a Turtlebot in the Gazebo simulation environment while rotating it across a circle. Furthermore, it can adjust the Turtlebot to a previously saved orientation.
+We can capture images using a Turtlebot in the Gazebo simulation environment while rotating it across a circle. (I will be working on the real robot soon).
+
 
 ## Getting Started
 
